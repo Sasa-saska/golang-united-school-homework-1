@@ -1,9 +1,13 @@
-package main
+package z0
 
 import (
 	"github.com/kyokomi/emoji/v2"
 )
 
-func main() {
-	emoji.Println("Hello :world_map:!")
+func Main() {
+	emoji.Println(Hello(":world_map:!"))
+}
+
+func Hello(name string) string {
+	return "Hello, " + name
 }

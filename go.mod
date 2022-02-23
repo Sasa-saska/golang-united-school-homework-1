@@ -1,4 +1,4 @@
-module dz1
+module z0
 
 go 1.17
 
