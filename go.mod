@@ -1,4 +1,4 @@
-module zadan0
+module main
 
 go 1.17
 
