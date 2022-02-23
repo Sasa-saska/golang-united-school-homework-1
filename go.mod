@@ -1,5 +1,5 @@
-module z0
+module zadan0
 
 go 1.17
 
-require github.com/kyokomi/emoji/v2 v2.2.8 // indirect
+require github.com/kyokomi/emoji/v2 v2.2.8

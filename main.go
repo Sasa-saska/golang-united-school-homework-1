@@ -1,8 +1,6 @@
-package z0
+package zadan0
 
-import (
-	"github.com/kyokomi/emoji/v2"
-)
+import "github.com/kyokomi/emoji/v2"
 
 func Main() {
 	emoji.Println(Hello(":world_map:!"))

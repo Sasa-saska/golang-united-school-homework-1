@@ -1,4 +1,4 @@
-package z0
+package zadan0
 
 import "testing"
 
